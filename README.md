@@ -1,6 +1,6 @@
 # Renderer
 
-This program renders the JSON data produced by the [game engine](https://github.com/ScrappersIO/Game-Engine) into a GIF image.
+This program renders the JSON data produced by the [game engine](https://github.com/ScrappersIO/Game-Engine) into a GIF image. [**Download binaries here.**](https://github.com/ScrappersIO/Renderer/releases/latest)
 
     :> renderer.exe -help
     Usage of renderer.exe:
